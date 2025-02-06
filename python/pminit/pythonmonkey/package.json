@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Distributive-Network/PythonMonkey#readme",
   "dependencies": {
     "core-js": "^3.35.1",
-    "ctx-module": "github:mxrch/ctx-module",
+    "ctx-module": "git+https://github.com/mxrch/ctx-module.git",
     "events": "^3.3.0"
   }
 }
